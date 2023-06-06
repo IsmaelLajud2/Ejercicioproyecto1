@@ -1,1 +1,1 @@
-# Texto de ejemplo Para ejercicio 1
+# Texto de ejemplo ejercicio 1
